@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+h1{
+    font-size: 30px;
+    color: cornsilk;
+    text-shadow: 0px 0px 7px black;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blanchedalmond;
+}
+.test{
+    background-color: red
+}
